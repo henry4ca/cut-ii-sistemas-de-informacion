@@ -22,6 +22,14 @@ La elección de un sistema de información (SI) es una decisión estratégica qu
    * Estrategias para planificar la implementación del sistema y gestionar el cambio organizacional asociado.
    * Preparación para la formación de usuarios y la adaptación a nuevas tecnologías.
 
+### Modelo del Sistema de Información
+
+El concepto del modelo de sistemas de información integrado a un modelo de gestión, se basa en el planteamiento según el cual una buena información es la que se obtiene directamente en la fuente que la genera, pero es mejor, si durante la generación de la información, los datos relevantes de la misma que deben ser conocidos en otras instancias se extraen y almacenan simultáneamente; y es mejor aun, si durante la generación de la información, esta es almacenada en forma tal que sus datos relevantes puedan ser extraídos en cualquier momento por la instancia que la requiera.
+
+<mark style="color:orange;">**Modelo**</mark><mark style="color:orange;">: Un modelo es una representación simplificada de un sistema, proceso o concepto del mundo real. Se utiliza para entender, analizar o predecir el comportamiento de un fenómeno mediante la abstracción de sus características clave y omitiendo detalles no esenciales.</mark> Los modelos pueden ser físicos, matemáticos, conceptuales o lógicos, y se aplican en diversas disciplinas como la ingeniería, la ciencia, la economía y la informática.
+
+<mark style="color:orange;">**Modelo de Sistemas de Información**</mark><mark style="color:orange;">: Un modelo de sistemas de información es una representación estructurada y simplificada de cómo un sistema de información debe funcionar dentro de una organización.</mark> Este modelo define los componentes, relaciones y procesos necesarios para recoger, procesar, almacenar y distribuir la información que apoya las operaciones y la toma de decisiones en la organización. Los modelos de sistemas de información incluyen aspectos como los flujos de datos, la arquitectura del sistema, y los mecanismos de control y seguridad.
+
 ### Estrategias
 
 * **Crear una matriz de comparación:** Comparar diferentes opciones de sistemas utilizando criterios predefinidos.
